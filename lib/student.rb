@@ -5,7 +5,7 @@ class Student
     data=self.new
     data.id = row[0]
   data.name =  row[1]
-  data.length = row[2]
+  data.grade = row[2]
   data
   end
 
